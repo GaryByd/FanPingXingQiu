@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="brienwheeler.apps.tomcat" type="repository">
+    <properties maven-id="com.brienwheeler.apps:apps-tomcat:1.11" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/brienwheeler/apps/apps-tomcat/1.11/apps-tomcat-1.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/brienwheeler/lib/lib-spring-beans/1.11/lib-spring-beans-1.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/brienwheeler/lib/lib-logging/1.11/lib-logging-1.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/brienwheeler/lib/lib-logging-defconfig/1.11/lib-logging-defconfig-1.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.2/commons-logging-1.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/brienwheeler/lib/lib-util/1.11/lib-util-1.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.9.RELEASE/spring-beans-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.9.RELEASE/spring-core-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.9.RELEASE/spring-context-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.9.RELEASE/spring-aop-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/3.2.9.RELEASE/spring-expression-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.6/tomcat-embed-core-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-annotations-api/9.0.6/tomcat-annotations-api-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.50/bcpkix-jdk15on-1.50.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.50/bcprov-jdk15on-1.50.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.6/tomcat-embed-jasper-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-el/9.0.6/tomcat-embed-el-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/ecj/3.12.3/ecj-3.12.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper/9.0.6/tomcat-jasper-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/9.0.6/tomcat-servlet-api-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-juli/9.0.6/tomcat-juli-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-el-api/9.0.6/tomcat-el-api-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-api/9.0.6/tomcat-api-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util-scan/9.0.6/tomcat-util-scan-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util/9.0.6/tomcat-util-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper-el/9.0.6/tomcat-jasper-el-9.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jsp-api/9.0.6/tomcat-jsp-api-9.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
