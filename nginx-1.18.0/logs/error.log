@@ -4510,3 +4510,18 @@
 2024/08/13 19:39:20 [error] 35752#23092: *363 CreateFile() "A:\Code\javaprogrma\hm-dianping\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
 2024/08/13 21:10:34 [error] 35752#23092: *396 CreateFile() "A:\Code\javaprogrma\hm-dianping\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
 2024/08/13 21:10:37 [error] 35752#23092: *397 CreateFile() "A:\Code\javaprogrma\hm-dianping\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
+2024/10/25 16:45:38 [emerg] 19164#37316: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 16:47:07 [emerg] 5024#2908: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 16:58:22 [emerg] 9732#17900: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 16:58:25 [emerg] 33572#29692: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 16:58:28 [emerg] 33104#34600: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:02:55 [emerg] 5056#24588: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:02:58 [emerg] 35544#8920: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:02:59 [emerg] 23676#16744: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:03:01 [emerg] 24524#31980: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:03:03 [emerg] 27100#12456: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:03:08 [emerg] 6768#17108: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:03:11 [emerg] 18740#1288: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:03:13 [emerg] 23480#18176: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:03:16 [emerg] 14792#34324: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2024/10/25 17:03:18 [emerg] 21232#18308: bind() to 0.0.0.0:8080 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
