@@ -7,14 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hm-dianping" />
+        <module name="xiaozhong-dianping" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="hm-dianping" options="-parameters" />
+      <module name="xiaozhong-dianping" options="-parameters" />
     </option>
   </component>
 </project>

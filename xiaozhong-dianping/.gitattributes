@@ -1,0 +1,14 @@
+# 忽略前端
+frontend/** linguist-vendored
+*.js linguist-detectable=false
+*.ts linguist-detectable=false
+
+# 忽略配置
+*.yaml linguist-detectable=false
+*.json linguist-detectable=false
+
+# 忽略脚本
+*.sh linguist-detectable=false
+
+# 忽略 Markdown 文档
+*.md linguist-detectable=false
